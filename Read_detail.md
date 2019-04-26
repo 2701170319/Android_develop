@@ -1,5 +1,5 @@
 ### ch02
-```
+```java
 //对于资源ID总是int，而非String
 //引入一段代码
  protected void onCreate(Bundle savedInstanceState) {
